@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Weather-Finder/static/css/main.a5a73ebe.chunk.css",
+    "main.js": "/Weather-Finder/static/js/main.070ceb9c.chunk.js",
+    "main.js.map": "/Weather-Finder/static/js/main.070ceb9c.chunk.js.map",
+    "runtime~main.js": "/Weather-Finder/static/js/runtime~main.1c4152be.js",
+    "runtime~main.js.map": "/Weather-Finder/static/js/runtime~main.1c4152be.js.map",
+    "static/css/2.66eda4fc.chunk.css": "/Weather-Finder/static/css/2.66eda4fc.chunk.css",
+    "static/js/2.9b0d9541.chunk.js": "/Weather-Finder/static/js/2.9b0d9541.chunk.js",
+    "static/js/2.9b0d9541.chunk.js.map": "/Weather-Finder/static/js/2.9b0d9541.chunk.js.map",
+    "index.html": "/Weather-Finder/index.html",
+    "precache-manifest.e78c53e0eea2c98cb01af201a116e8da.js": "/Weather-Finder/precache-manifest.e78c53e0eea2c98cb01af201a116e8da.js",
+    "service-worker.js": "/Weather-Finder/service-worker.js",
+    "static/css/2.66eda4fc.chunk.css.map": "/Weather-Finder/static/css/2.66eda4fc.chunk.css.map",
+    "static/css/main.a5a73ebe.chunk.css.map": "/Weather-Finder/static/css/main.a5a73ebe.chunk.css.map",
+    "static/media/weather-icons.css": "/Weather-Finder/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  }
+}
